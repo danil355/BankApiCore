@@ -1,0 +1,5 @@
+C:\Users\Евгений\source\repos\BankAspCore\Domain.Model\bin\Debug\netcoreapp3.1\Domain.Model.deps.json
+C:\Users\Евгений\source\repos\BankAspCore\Domain.Model\bin\Debug\netcoreapp3.1\Domain.Model.dll
+C:\Users\Евгений\source\repos\BankAspCore\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\BankAspCore\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\BankAspCore\Domain.Model\obj\Debug\netcoreapp3.1\Domain.Model.AssemblyInfo.cs
